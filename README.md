@@ -1,0 +1,1 @@
+I will be organising and naming the files as per the method used. Notebook files involve experimentation of the code and .py files are the complete workflow of the RAG pipline all the way from collecting the document to retrieval
